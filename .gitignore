@@ -1,0 +1,8 @@
+# dataset is too big for GitHub, download it from Kaggle
+IMDB-Dataset.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+desktop.ini
